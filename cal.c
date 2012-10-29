@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
   scanf("%f %f", &a,&b);
 
   printf("The addition of %f and %f is:: %f\n", a,b,a+b);
+  printf("The subtraction of %f and %f is:: %f\n", a,b,a-b);
   
   return 0;
 }
